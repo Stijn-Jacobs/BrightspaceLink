@@ -1,0 +1,9 @@
+webdriver_manager==3.4.2
+D2LValence_Util==0.1.16
+requests==2.23.0
+Beaker==1.11.0
+google_auth_oauthlib==0.4.6
+d2lvalence==1.2.2
+bottle==0.12.19
+google_api_python_client==2.22.0
+protobuf==3.18.0
